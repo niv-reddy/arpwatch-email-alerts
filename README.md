@@ -12,5 +12,7 @@ ARPWatch is a passive network monitoring tool that logs new or changed MAC-to-IP
 
 ---
 
-## 🗂 Repo Structure
+## 🛡️ Disclaimer
+
+This project was done during my internship with FPPC. All sensitive info has been redacted.
 
